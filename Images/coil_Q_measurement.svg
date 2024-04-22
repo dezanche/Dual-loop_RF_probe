@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="691.31372"
+   height="340.55264"
+   overflow="hidden"
+   version="1.1"
+   id="svg23"
+   sodipodi:docname="coil_Q_measurement.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs23" />
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.69609375"
+     inkscape:cx="296.65544"
+     inkscape:cy="174.54545"
+     inkscape:window-width="1680"
+     inkscape:window-height="997"
+     inkscape:window-x="-8"
+     inkscape:window-y="357"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23" />
+  <path
+     d="m 109.20052,309.38931 v -54.4 H 67.025524 v -217.6 H 182.02552 v 217.6 h -42.42 v 53.671"
+     stroke="#000000"
+     stroke-width="3.33333"
+     stroke-linecap="square"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path1" />
+  <path
+     d="m 79.982524,53.24431 c 2.347,-6.651 9.694,-10.121 16.41,-7.751 6.714996,2.37 10.256996,9.683 7.908996,16.334 -2.347,6.651 -9.693996,10.121 -16.409996,7.751 -6.715,-2.37 -10.257,-9.683 -7.909,-16.334 z"
+     stroke="#000000"
+     stroke-width="1.33333"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path2" />
+  <path
+     d="M 0.76052391,0.64930993 C 4.2285239,4.7113099 12.070524,18.31231 20.951524,25.31631 c 8.651,6.922 22.646,11.862 32.565,16.652 9.92,4.791 21.229,9.299 26.803,11.782"
+     stroke="#000000"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path3" />
+  <text
+     font-family="Calibri, Calibri_MSFontService, sans-serif"
+     font-weight="400"
+     font-size="21px"
+     id="text3"
+     x="23.822521"
+     y="13.88931">VNA port 2</text>
+  <text
+     font-family="Calibri, Calibri_MSFontService, sans-serif"
+     font-weight="400"
+     font-size="21px"
+     id="text4"
+     x="231.9615"
+     y="286.88931">VNA port 1</text>
+  <path
+     d="m 109.20052,309.38931 v -54.4 H 67.025524 v -217.6 H 182.02552 v 217.6 h -42.42 v 53.671"
+     stroke="#000000"
+     stroke-width="3.33333"
+     stroke-linecap="square"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path4" />
+  <path
+     d="m 109.20052,309.38931 v -54.4 H 67.025524 v -217.6 H 182.02552 v 217.6 h -42.42 v 53.671"
+     stroke="#000000"
+     stroke-width="3.33333"
+     stroke-linecap="square"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path5" />
+  <path
+     d="m 45.417524,59.28731 -23.394,-14.067 c -0.176,-0.11 -0.234,-0.329 -0.124,-0.505 0.102,-0.175 0.322,-0.227 0.497,-0.124 l 23.402,14.067 c 0.168,0.102 0.227,0.329 0.125,0.504 -0.11,0.169 -0.33,0.227 -0.506,0.125 z m -23.885,-11.375 -3.507,-5.523 6.531,0.512 z"
+     stroke="#000000"
+     stroke-width="0"
+     stroke-linejoin="bevel"
+     stroke-miterlimit="10"
+     fill-rule="evenodd"
+     id="path6" />
+  <path
+     d="m 238.52343,340.42679 c -0.74111,-5.84239 0.99185,-23.58171 -4.44862,-35.39723 -5.26662,-11.64503 -17.42709,-24.59469 -28.01906,-35.32403 -10.5919,-10.72927 -28.25137,-22.93356 -35.52964,-28.70774"
+     stroke="#000000"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path7" />
+  <path
+     d="m 151.18617,224.5376 c -4.9306,5.02728 -4.85222,13.09976 0.17506,18.03036 5.02734,4.93066 13.09983,4.85229 18.03043,-0.17499 4.93066,-5.02733 4.85228,-13.09984 -0.17506,-18.0305 -5.02728,-4.9306 -13.09977,-4.85221 -18.03043,0.17513 z"
+     stroke="#000000"
+     stroke-width="1.33333"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path8" />
+  <path
+     d="m 227.41752,264.28131 -23.394,-14.895 c -0.176,-0.116 -0.234,-0.348 -0.125,-0.534 0.103,-0.186 0.323,-0.24 0.498,-0.132 l 23.402,14.895 c 0.168,0.108 0.227,0.348 0.125,0.534 -0.11,0.178 -0.33,0.24 -0.506,0.132 z m -23.885,-12.044 -3.507,-5.848 6.531,0.542 z"
+     stroke="#000000"
+     stroke-width="0"
+     stroke-linejoin="bevel"
+     stroke-miterlimit="10"
+     fill-rule="evenodd"
+     id="path9" />
+  <path
+     d="m 454.20052,309.38931 v -54.4 h -42.175 v -217.6 h 115 v 217.6 h -42.42 v 53.671"
+     stroke="#000000"
+     stroke-width="3.33333"
+     stroke-linecap="square"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path10" />
+  <path
+     d="m 497.03352,164.85331 c 1.555,6.879 -2.815,13.729 -9.761,15.3 -6.946,1.571 -13.838,-2.733 -15.394,-9.612 -1.556,-6.879 2.814,-13.729 9.761,-15.3 6.946,-1.571 13.838,2.733 15.394,9.612 z"
+     stroke="#000000"
+     stroke-width="1.33333"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path11" />
+  <path
+     d="m 592.09652,167.17131 c -5.099,-1.59 -18.981,-8.925 -30.227,-10.122 -11.009,-1.252 -25.485,2.022 -36.432,3.251 -10.947,1.228 -22.92,3.437 -28.959,4.304"
+     stroke="#000000"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path12" />
+  <text
+     font-family="Calibri, Calibri_MSFontService, sans-serif"
+     font-weight="400"
+     font-size="21px"
+     id="text12"
+     x="598.25952"
+     y="163.88931">VNA port 2</text>
+  <text
+     font-family="Calibri, Calibri_MSFontService, sans-serif"
+     font-weight="400"
+     font-size="21px"
+     id="text13"
+     x="559.10852"
+     y="247.88931">VNA port 1</text>
+  <path
+     d="m 454.20052,309.38931 v -54.4 h -42.175 v -217.6 h 115 v 217.6 h -42.42 v 53.671"
+     stroke="#000000"
+     stroke-width="3.33333"
+     stroke-linecap="square"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path13" />
+  <path
+     d="m 454.20052,309.38931 v -54.4 h -42.175 v -217.6 h 115 v 217.6 h -42.42 v 53.671"
+     stroke="#000000"
+     stroke-width="3.33333"
+     stroke-linecap="square"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path14" />
+  <path
+     d="m 611.2031,224.02085 c -3.99401,-4.32788 -12.8772,-19.78025 -24.16465,-26.24546 -11.04693,-6.42724 -28.46524,-9.91632 -43.31767,-12.50742 -14.85234,-2.59109 -36.3164,-2.28196 -45.59461,-2.76065"
+     stroke="#000000"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path15" />
+  <path
+     d="m 472.8236,180.32627 c -1.09798,6.95548 3.65048,13.48414 10.60596,14.58212 6.95557,1.098 13.48424,-3.65046 14.58222,-10.60594 1.098,-6.95557 -3.65047,-13.48424 -10.60604,-14.58224 -6.95549,-1.09799 -13.48414,3.65049 -14.58214,10.60606 z"
+     stroke="#000000"
+     stroke-width="1.33333"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path16" />
+  <path
+     d="m 577.52552,205.31131 -33.214,-8.605 0.335,-1.29 33.213,8.605 z m -32.759,-5.043 -6.741,-5.879 8.748,-1.866 z"
+     id="path17" />
+  <path
+     d="m 540.07252,147.72431 29.964,2.092 -0.093,1.33 -29.964,-2.092 z m 28.866,-1.326 7.702,4.548 -8.259,3.433 z"
+     id="path18" />
+  <path
+     d="m 102.78052,84.46931 0.977,2.481 -0.62,0.245 -0.978,-2.481 z m 1.711,4.342 0.977,2.481 -0.62,0.244 -0.978,-2.481 z m 1.711,4.342 0.977,2.481 -0.62,0.244 -0.978,-2.481 z m 1.711,4.341 0.977,2.481 -0.62,0.245 -0.978,-2.481 z m 1.711,4.342 0.977,2.481 -0.62,0.244 -0.978,-2.481 z m 1.711,4.342 0.977,2.481 -0.62,0.244 -0.978,-2.481 z m 1.711,4.341 0.977,2.481 -0.62,0.245 -0.978,-2.481 z m 1.711,4.342 0.977,2.481 -0.62,0.244 -0.977,-2.481 z m 1.711,4.342 0.978,2.481 -0.621,0.244 -0.977,-2.481 z m 1.711,4.341 0.978,2.481 -0.621,0.245 -0.977,-2.481 z m 1.711,4.342 0.978,2.481 -0.621,0.244 -0.977,-2.481 z m 1.711,4.342 0.978,2.481 -0.621,0.244 -0.977,-2.481 z m 1.711,4.341 0.978,2.481 -0.621,0.245 -0.977,-2.481 z m 1.711,4.342 0.978,2.481 -0.621,0.244 -0.977,-2.481 z m 1.711,4.342 0.978,2.481 -0.621,0.244 -0.977,-2.481 z m 1.711,4.341 0.978,2.481 -0.621,0.245 -0.977,-2.481 z m 1.711,4.342 0.978,2.481 -0.62,0.244 -0.978,-2.48 z m 1.711,4.342 0.978,2.481 -0.62,0.244 -0.978,-2.481 z m 1.711,4.341 0.978,2.481 -0.62,0.245 -0.978,-2.481 z m 1.711,4.342 0.978,2.481 -0.62,0.245 -0.978,-2.481 z m 1.711,4.342 0.978,2.481 -0.62,0.244 -0.978,-2.481 z m 1.711,4.341 0.978,2.481 -0.62,0.245 -0.978,-2.481 z m 1.711,4.342 0.978,2.481 -0.62,0.245 -0.978,-2.481 z m 1.711,4.342 0.978,2.481 -0.62,0.244 -0.978,-2.481 z m 1.711,4.341 0.978,2.481 -0.62,0.245 -0.978,-2.481 z m 1.711,4.342 0.978,2.481 -0.62,0.245 -0.978,-2.481 z m 1.711,4.342 0.978,2.481 -0.62,0.244 -0.978,-2.481 z m 1.711,4.342 0.978,2.48 -0.62,0.245 -0.978,-2.481 z m 1.711,4.341 0.978,2.481 -0.62,0.245 -0.978,-2.481 z m -51.450996,-118.737 0.787996,-8.91 6.655,5.976 z m 55.614996,119.303 -0.788,8.909 -6.654,-5.976 z"
+     id="path19" />
+  <text
+     font-family="Calibri, Calibri_MSFontService, sans-serif"
+     font-weight="400"
+     font-size="21px"
+     id="text19"
+     x="74.912514"
+     y="156.88931">large</text>
+  <text
+     font-family="Calibri, Calibri_MSFontService, sans-serif"
+     font-weight="400"
+     font-size="21px"
+     id="text20"
+     x="74.912514"
+     y="182.88931">separation</text>
+  <text
+     font-family="Calibri, Calibri_MSFontService, sans-serif"
+     font-weight="400"
+     font-size="21px"
+     id="text21"
+     x="419.56653"
+     y="126.88931">overlapped</text>
+  <text
+     font-family="Calibri, Calibri_MSFontService, sans-serif"
+     font-weight="400"
+     font-size="21px"
+     id="text22"
+     x="419.56653"
+     y="152.88931">loop</text>
+  <text
+     font-family="Calibri, Calibri_MSFontService, sans-serif"
+     font-weight="400"
+     font-size="21px"
+     id="text23"
+     x="458.12653"
+     y="152.88931">s</text>
+</svg>

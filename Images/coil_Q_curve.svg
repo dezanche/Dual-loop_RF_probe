@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="299.67862"
+   height="199.44273"
+   overflow="hidden"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="coil_Q_curve.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.69609375"
+     inkscape:cx="150.12346"
+     inkscape:cy="111.33558"
+     inkscape:window-width="1680"
+     inkscape:window-height="997"
+     inkscape:window-x="-8"
+     inkscape:window-y="357"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs1">
+    <image
+       width="23"
+       height="21"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAVCAMAAACaPIWZAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAA/UExURQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALMlgi8AAAAUdFJOUwAMGBklMUpMZHN/i5qhqLzK2d3slID3sQAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAIlJREFUKFO1kMESwiAMRIMphaApCvz/t7qG6OB4re8ASyZZFuhceHdBlPt9c0kkNbhSvdTkmkIdrlPjKYyUq5rY2twn4crSo42NIV4EMRM3O3/bFBzUKrraoB1Lx83cPlFAgTW8EVVWGy62pR6Dp5oIQhgaH6/JX2Rtd/jY9mMN6eBNt/cf/R2iJ4D+BFBbxZiiAAAAAElFTkSuQmCC"
+       preserveAspectRatio="none"
+       id="img0" />
+  </defs>
+  <path
+     d="m 0.9390315,198.33334 1.004,-0.996 1.505,-0.996 1.505,-0.995 1.506,-0.996 1.505,-0.498 1.505,-0.996 1.5049995,-0.996 1.506,-0.995 1.505,-0.996 1.505,-0.996 1.506,-0.996 1.505,-0.498 1.505,-0.995 1.506,-0.996 1.505,-0.996 1.505,-0.996 1.506,-1.493 1.505,-0.996 1.505,-0.996 1.505,-0.996 1.506,-0.996 1.505,-0.995 1.505,-0.996 1.506,-1.494 1.505,-0.996 1.505,-0.995 1.506,-0.996 1.505,-1.494 1.505,-0.996 1.506,-1.493 1.505,-0.996 1.505,-1.494 1.506,-0.996 1.505,-1.493 1.505,-0.996 1.505,-1.494 1.506,-0.996 1.505,-1.493 1.505,-1.494 1.506,-1.494 1.003,-1.493 1.506,-0.996 1.505,-1.494 1.505,-1.493 1.505,-1.494 1.506,-1.494 1.505,-1.991 1.505,-1.494 1.506,-1.494 1.505,-1.493 1.505,-1.992 1.506,-1.494 1.505,-1.991 1.505,-1.494 1.506,-1.992 1.505,-1.493 1.505,-1.992 1.506,-1.991 1.505,-1.992 1.505,-1.991 1.505,-1.992 1.506,-1.992 1.505,-2.489 1.505,-1.992 1.506,-2.489 1.505,-1.992 1.504999,-2.489 1.506,-2.49 1.505,-2.489 1.505,-2.490005 1.506,-2.489 1.505,-2.49 1.505,-2.987 1.505,-2.987 1.506,-2.49 1.505,-2.987 1.505,-3.319 1.506,-2.988 1.505,-2.987 1.505,-3.485 1.004,-3.486 1.505,-3.485 1.505,-3.983 1.506,-3.485 1.338,-3.983 1.505,-3.984 1.505,-3.983 1.506,-3.983 1.505,-3.983 1.505,-4.481 1.506,-3.983 1.505,-3.983 1.505,-3.984 1.506,-3.983 1.505,-3.485 1.505,-2.987 1.506,-2.49 1.505,-1.991 1.505,-1.494 1.505,-0.498 h 1.506 l 1.505,0.996 1.505,1.991 1.506,2.49 1.505,2.987 1.505,2.988 1.506,3.983 1.505,3.983 1.505,3.983 1.506,3.983 1.505,3.983 1.505,4.481 1.505,3.984 1.506,3.983 1.505,3.983 1.505,3.983 1.506,3.983 1.505,3.485 1.505,3.486 1.506,3.485 1.003,3.485 1.506,3.485 1.505,2.988 1.505,2.987 1.505,2.822 1.506,2.987 1.505,2.987"
+     stroke="#000000"
+     stroke-width="2.66667"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path1" />
+  <path
+     d="m 189.93903,89.333335 1.5,2.5 1.5,3 1.5,2.5 1.5,2.5 1.5,2.500005 1.5,2.5 1.5,2.5 1.5,2.5 1.5,2 1.5,2.5 1.5,2 1.5,2 1.5,2 1.5,2 1.5,2 1.5,2 1.5,2 1.5,2 1.5,1.5 1.5,2 1.5,2 1.5,1.5 1.5,1.5 1.5,2 1.5,1.5 1.5,1.5 1.5,1.5 1.5,1.5 1.5,1.5 1.5,1.5 1.5,1.5 1.5,1.5 1.5,1.5 1,1.5 1.5,1.5 1.5,1 1.5,1.5 1.5,1.5 1.5,1 1.5,1.5 1.5,1.5 1.5,1 1.5,1 1.5,1.5 1.5,1 1.5,1.5 1.5,1 1.5,1 1.5,1.5 1.5,1 1.5,1 1.5,1 1.5,1 1.5,1 1.5,1.5 1.5,1 1.5,1 1.5,1 1.5,1 1.5,1 1.5,1 1.5,1 1.5,1 1.5,1 1.5,0.5 1.5,1 1.5,1 1.5,1 1.5,1 1.5,1 1.5,0.5 1.5,1 1.5,1"
+     stroke="#000000"
+     stroke-width="2.66667"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path2" />
+  <path
+     d="m 151.27203,9.000335 v 54.666 h -2.666 v -54.666 z m -5.333,1.333 4,-8 4,8 z m 8,52 -4,8 -4,-8 z"
+     id="path3" />
+  <path
+     d="m 117.93903,70.333335 h 60"
+     stroke="#000000"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     stroke-dasharray="4, 3"
+     fill="none"
+     fill-rule="evenodd"
+     id="path4" />
+  <path
+     d="m 192.60603,69.000335 h 38.333 v 2.666 h -38.333 z m 1.333,5.333 -8,-4 8,-4 z"
+     id="path5" />
+  <path
+     d="m 111.27238,68.999985 -39.333349,-9e-5 v 2.66667 l 39.333339,9e-5 z m -1.33336,5.33333 8.00001,-3.99998 -7.99999,-4.00002 z"
+     id="path6" />
+  <text
+     fill="#333333"
+     font-family="Calibri, Calibri_MSFontService, sans-serif"
+     font-weight="400"
+     font-size="24px"
+     id="text6"
+     x="73.706062"
+     y="36.833336">3 dB</text>
+  <use
+     width="100%"
+     height="100%"
+     xlink:href="#img0"
+     fill="none"
+     transform="translate(228.43903,60.833335)"
+     id="use6" />
+</svg>

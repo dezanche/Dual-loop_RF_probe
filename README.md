@@ -33,7 +33,7 @@ Connections from the board to coaxial cables are made at the end opposite the lo
 
 [4]	Axel Haase et al., “NMR Probeheads for In Vivo Applications,” Concepts in Magnetic Resonance, vol. 12, no. 6, pp. 361–388, 2000.
 
-[5]	W. Wang, J. D. Sánchez-Heredia, T. Maurouard, V. Zhurbenko, and J. H. Ardenkjær-Larsen, “Cal-ibrating Double-Loop H-Field Probe Measurements of RF Coil Current for MRI,” IEEE J. Elec-tromagn. RF Microw. Med. Biol., vol. 7, no. 3, pp. 266–272, Sep. 2023, doi: 10.1109/JERM.2023.3274742.
+[5]	W. Wang, J. D. Sánchez-Heredia, T. Maurouard, V. Zhurbenko, and J. H. Ardenkjær-Larsen, “Calibrating Double-Loop H-Field Probe Measurements of RF Coil Current for MRI,” IEEE J. Elec-tromagn. RF Microw. Med. Biol., vol. 7, no. 3, pp. 266–272, Sep. 2023, doi: 10.1109/JERM.2023.3274742.
 
 ## Contributors
 Nicola De Zanche

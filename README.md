@@ -27,7 +27,7 @@ Connections from the board to coaxial cables are made at the end opposite the lo
 ## References
 [1]	W. A. Edelstein, G. H. Glover, C. J. Hardy, and R. W. Redington, “The Intrinsic Signal-to-Noise Ratio in NMR Imaging,” Magn Reson Med, vol. 3, no. 4, pp. 604–618, 1986, doi: 10.1002/mrm.1910030413.
 
-[2]	J. R. Ashley and F. M. Palka, “Reflection Coefficient Measurement of Microwave Resonator {Q} Factors,” The Microwave Journal, pp. 35–39, Jun. 1971.
+[2]	J. R. Ashley and F. M. Palka, “Reflection Coefficient Measurement of Microwave Resonator Q Factors,” The Microwave Journal, pp. 35–39, Jun. 1971.
 
 [3]	Luc Darrasse and Ghazi Kassab, “Quick Measurement of NMR-Coil Sensitivity with a Dual-Loop Probe,” Review of Scientific Instruments, vol. 64, no. 7, pp. 1841–1844, Jul. 1993.
 

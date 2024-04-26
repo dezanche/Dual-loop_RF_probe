@@ -1,6 +1,6 @@
 # Decoupled Dual-Loop RF Magnetic Field Probe
 
-![board preview](Images/dual_loop_probe.png)
+![board photo](Images/dual_loop_probe.jpg)
 
 ## MRI and RF Coils
 Magnetic resonance imaging (MRI) requires radio frequency (RF) “coils” to excite and receive the MR signal from <sup>1</sup>H nuclei (protons). Coils are similar to antennas: they must produce a desired field pattern and operate at a given frequency, which for MR is known as the Larmor frequency and is given by the product of the scanner’s static magnetic field (B<sub>0</sub> in tesla – T) and gyromagnetic ratio (γ = 42.58 MHz/T for protons) of the nuclei.

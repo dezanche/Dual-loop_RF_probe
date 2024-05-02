@@ -24,6 +24,9 @@ The motivation for this work was to make a double-loop probe that is rugged, rel
 
 Connections from the board to coaxial cables are made at the end opposite the loops through two side-launch connectors such SMA. The PCB design is provided in both [KiCAD](https://www.kicad.org/) and Gerber format.
 
+## Results and Future Work
+As designed, the isolation measured between the two ports approaches 30dB at frequencies above 350MHz, while at lower frequencies it degrades to 10dB. With some modifications after fabrication, the isolation can be adjusted to remain above 30dB throughout the 0-500MHz range. Future versions will incorporate features to optimize isolation.
+
 ## References
 [1]	W. A. Edelstein, G. H. Glover, C. J. Hardy, and R. W. Redington, “The Intrinsic Signal-to-Noise Ratio in NMR Imaging,” Magn Reson Med, vol. 3, no. 4, pp. 604–618, 1986, doi: 10.1002/mrm.1910030413.
 

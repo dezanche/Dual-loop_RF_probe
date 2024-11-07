@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this probe in your work, please cite it as below."
+authors:
+- family-names: "Nicola"
+  given-names: "De Zanche"
+  orcid: "https://orcid.org/0000-0003-4424-8430"
+- family-names: "Giulio"
+  given-names: "Giovannetti"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Decoupled Dual-Loop RF Magnetic Field Probe"
+version: 0.2
+doi: 
+date-released: 2024-11-07
+url: "https://github.com/dezanche/Dual-loop_RF_probe"

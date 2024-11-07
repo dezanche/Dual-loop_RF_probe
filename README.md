@@ -27,7 +27,8 @@ The motivation for this work was to make a double-loop probe that is rugged, rel
 
 Connections from the board to coaxial cables are made at the end opposite the loops through two side-launch connectors such SMA. The PCB design is provided in both [KiCAD](https://www.kicad.org/) and Gerber format.
 
-## Results and Future Work
+## Results
+The probe was printed using 1.6-mm-thick FR4 material and standard manufacturing tolerances.
 The isolation measured between the two ports in absence of other circuits or materials near the probe quantifies its baseline performance. Isolation is better than 50 dB up to 500 MHz, and the worst value up to 1 GHz is 38dB. With some modifications after fabrication, the isolation can be adjusted to remain above 30dB throughout the 0-500MHz range. Some adjustment of isolation is possible by removing small areas of the ground planes at the notch where the two loops cross over each other.
 
 ![isolation](Images/S21_V3.png)

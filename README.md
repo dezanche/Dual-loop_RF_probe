@@ -48,6 +48,8 @@ Nicola De Zanche
 
 Giulio Giovannetti
 
+If you use this probe in your work, please cite it as described in the [CITATION](CITATION.cff) file.
+
 ## Licenses
 Layouts and other CAD files are licensed under the [CERN-OHL-W 2.0 license](https://cern-ohl.web.cern.ch/), version 2.0 or any later version.\
 ![CClicense](https://i.creativecommons.org/l/by-nd/4.0/88x31.png)\

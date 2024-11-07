@@ -1,11 +1,14 @@
 # Decoupled Dual-Loop RF Magnetic Field Probe
 
-![board photo](Images/dual_loop_probe.jpg)
+![board photo](Images/dual_loop_probe_v0.2.jpg)
 
 ## MRI and RF Coils
 Magnetic resonance imaging (MRI) requires radio frequency (RF) “coils” to excite and receive the MR signal from <sup>1</sup>H nuclei (protons). Coils are similar to antennas: they must produce a desired field pattern and operate at a given frequency, which for MR is known as the Larmor frequency and is given by the product of the scanner’s static magnetic field (B<sub>0</sub> in tesla – T) and gyromagnetic ratio (γ = 42.58 MHz/T for protons) of the nuclei.
 
 ## Measurement of Resonant Frequency and Q
+
+![measurement photo](Images/measurement_example.jpg)
+
 To achieve optimal performance, coils must usually be tuned to the Larmor frequency, e.g., by adjusting one or more capacitors or physical dimensions. Resonant frequency can be measured readily using a vector network analyzer (VNA) and a [single loop probe](https://github.com/dezanche/H-field_RF_probe/) with an S<sub>11</sub> measurement (analogous to the dip meter measurement used in the past when VNAs were not cheap and portable). 
 The coil’s sensitivity or SNR of the received signal is related to the ratio of loaded and unloaded quality factors (Q) [1]. With some corrections [2], Q can be measured using the same S<sub>11</sub> measurement above, but it is challenging because the correction depends on the strength of the coupling which is difficult to control, especially if the probe is positioned manually. It is much more convenient to use two probes and an S<sub>21</sub> measurement, in which case the Q is simply f<sub>0</sub>/∆f, where f<sub>0</sub> is the center frequency and ∆f is the FWHM of the resonance curve as shown below.
 
@@ -20,12 +23,14 @@ Following the work of Darrasse and Kassab [3], it has become common to overlap t
 ## Design
 The motivation for this work was to make a double-loop probe that is rugged, reliable and provides consistent and sufficiently low intrinsic coupling. The design follows the principles of the single [printed shielded loop probe](https://github.com/dezanche/H-field_RF_probe/), and uses a 4-layer PCB stackup in which the top and bottom layers are ground planes, while the two inner layers contain two stripline loops with appropriate overlap to minimize coupling.
 
-![4-layer PCB stackup](Images/dual_loop_probe_stackup.svg)
+![4-layer PCB stackup](Images/KiCAD_layout.png)
 
 Connections from the board to coaxial cables are made at the end opposite the loops through two side-launch connectors such SMA. The PCB design is provided in both [KiCAD](https://www.kicad.org/) and Gerber format.
 
 ## Results and Future Work
-As designed, the isolation measured between the two ports approaches 30dB at frequencies above 350MHz, while at lower frequencies it degrades to 10dB. With some modifications after fabrication, the isolation can be adjusted to remain above 30dB throughout the 0-500MHz range. Future versions will incorporate features to optimize isolation.
+The isolation measured between the two ports in absence of other circuits or materials near the probe quantifies its baseline performance. Isolation is better than 50 dB up to 500 MHz, and the worst value up to 1 GHz is 38dB. With some modifications after fabrication, the isolation can be adjusted to remain above 30dB throughout the 0-500MHz range. Some adjustment of isolation is possible by removing small areas of the ground planes at the notch where the two loops cross over each other.
+
+![isolation](Images/S21_V3.png)
 
 ## References
 [1]	W. A. Edelstein, G. H. Glover, C. J. Hardy, and R. W. Redington, “The Intrinsic Signal-to-Noise Ratio in NMR Imaging,” Magn Reson Med, vol. 3, no. 4, pp. 604–618, 1986, doi: 10.1002/mrm.1910030413.
@@ -42,6 +47,8 @@ As designed, the isolation measured between the two ports approaches 30dB at fre
 Nicola De Zanche
 
 Giulio Giovannetti
+
+If you use this probe in your work, please cite it as described in the [CITATION](CITATION.cff) file.
 
 ## Licenses
 Layouts and other CAD files are licensed under the [CERN-OHL-W 2.0 license](https://cern-ohl.web.cern.ch/), version 2.0 or any later version.\

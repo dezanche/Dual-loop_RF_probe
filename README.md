@@ -1,5 +1,5 @@
 # Decoupled Dual-Loop RF Magnetic Field Probe
-![version](https://img.shields.io/badge/version-0.2-green) ![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.14680538-blue)
+![version](https://img.shields.io/badge/version-0.2-green) [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.14680538-blue)](https://doi.org/10.5281/zenodo.14680538)
 
 ![board photo](Images/dual_loop_probe_v0.2.jpg)
 

@@ -26,7 +26,16 @@ The motivation for this work was to make a double-loop probe that is rugged, rel
 
 ![4-layer PCB stackup](Images/KiCAD_layout.png)
 
-Connections from the board to coaxial cables are made at the end opposite the loops through two side-launch connectors such SMA. The PCB design is provided in both [KiCAD](https://www.kicad.org/) and Gerber format.
+Connections from the board to coaxial cables are made at the end opposite the loops through two side-launch connectors such SMA (compatible with 1.6-mm-thick PCB). The PCB design is provided in both [KiCAD](https://www.kicad.org/) and Gerber format.
+
+## Bill of Materials
+
+| component | source | quantity | unit cost | total cost |
+| --------- | ------ | -------- | --------- | ---------- |
+| PCB  | various | 1 | 1 USD | 1 USD |
+| RF connector | various | 2 | 1 USD | 2 USD |
+
+Total cost of the dual-loop probe with connectors is about 3 USD and varies depending on board manufacturer as well as the type (SMA, QMA, SMB, etc.) and source of the RF connectors.
 
 ## Results
 The probe was printed using 1.6-mm-thick FR4 material and standard manufacturing tolerances.

@@ -43,8 +43,8 @@ The isolation measured between the two ports in absence of other circuits or mat
 
 ![isolation](Images/S21_V3.png)
 
-## Publication
-A version of this work was presented at the [2025 meeting of the ISMRM](https://www.ismrm.org/25m/) (program #4402).
+## Publications
+A version of this work was presented at the [2025 meeting of the ISMRM](https://www.ismrm.org/25m/) (program #4402) and published as a hardware article in [HardwareX](https://doi.org/10.1016/j.ohx.2025.e00659).
 
 ## References
 [1]	W. A. Edelstein, G. H. Glover, C. J. Hardy, and R. W. Redington, “The Intrinsic Signal-to-Noise Ratio in NMR Imaging,” Magn Reson Med, vol. 3, no. 4, pp. 604–618, 1986, doi: 10.1002/mrm.1910030413.
@@ -62,7 +62,7 @@ Nicola De Zanche
 
 Giulio Giovannetti
 
-If you use this probe in your work, please cite it as described in the [CITATION](CITATION.cff) file.
+If you use this probe in your work, please cite the [Publications](#Publications) and this repository as described in the [CITATION](CITATION.cff) file.
 
 ## Licenses
 Layouts and other CAD files are licensed under the [CERN-OHL-W 2.0 license](https://cern-ohl.web.cern.ch/), version 2.0 or any later version.\
